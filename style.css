@@ -222,4 +222,10 @@ footer {
     margin-left: 390px;
     border-radius: 50%;
   }
+  .aktif {
+    border-bottom: 3px solid red;
+    margin: auto;
+    padding-bottom: 10px;
+    margin-bottom: -13px;
+  }
 }
